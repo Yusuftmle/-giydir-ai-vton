@@ -1,3 +1,8 @@
+<img width="1600" height="893" alt="WhatsApp Image 2026-05-03 at 10 58 56" src="https://github.com/user-attachments/assets/e3b99ff9-e1aa-4f5e-89f7-2699d1416c35" />
+<img width="896" height="1200" alt="atelier_166fb44f79174a2b9eaa90d6d1403028" src="https://github.com/user-attachments/assets/e5931555-6bb6-45df-bef2-4ee4321e7cf0" />
+<img width="2400" height="1792" alt="APPAREL_DNA __Regular_fit,_A-line_202604301207" src="https://github.com/user-attachments/assets/9400fc3d-9d3d-4795-8112-2d5bc56f84a1" />
+<img width="2400" height="1792" alt="APPAREL_DNA __Regular_fit,_A-line_202605010821" src="https://github.com/user-attachments/assets/9842b4bf-1f71-4904-a945-a619efb7d29c" />
+<img width="2400" height="1792" alt="APPAREL_DNA __Regular_fit,_Structured_202605010821" src="https://github.com/user-attachments/assets/e0c6daac-efd6-4d76-a8fe-d834c51fa7f1" />
 <img width="2400" height="1792" alt="Corset_top_midi_skirt_posing_202607181256" src="https://github.com/user-attachments/assets/88755261-1ed0-47ff-85ed-71d3329f3047" />
 <img width="2400" height="1792" alt="Woman_posing_in_maxi_garment_202607181254" src="https://github.com/user-attachments/assets/45046dfc-eef4-44b4-8f20-07b60469e8df" />
 <img width="2400" height="1792" alt="Model_posing_in_knit_top_202607181254" src="https://github.com/user-attachments/assets/90f38576-e70f-4a21-a102-03780a486017" />
