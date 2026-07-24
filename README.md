@@ -1,3 +1,7 @@
+<img width="2400" height="1792" alt="Corset_top_midi_skirt_posing_202607181256" src="https://github.com/user-attachments/assets/88755261-1ed0-47ff-85ed-71d3329f3047" />
+<img width="2400" height="1792" alt="Woman_posing_in_maxi_garment_202607181254" src="https://github.com/user-attachments/assets/45046dfc-eef4-44b4-8f20-07b60469e8df" />
+<img width="2400" height="1792" alt="Model_posing_in_knit_top_202607181254" src="https://github.com/user-attachments/assets/90f38576-e70f-4a21-a102-03780a486017" />
+<img width="2400" height="1792" alt="Woman_walking_in_studio_2K_202607181256" src="https://github.com/user-attachments/assets/9b4c5866-bdc2-4146-a4ca-f7223437004b" />
 # Giydir — Enterprise AI Fashion & Virtual Try-On Platform
 
 Giydir is an enterprise-grade SaaS platform that operates as an intelligent orchestration layer between complex, multi-stage machine learning pipelines and a reactive, real-time frontend. It is engineered to serve high-volume generative AI workloads for the fashion industry, including Virtual Try-On (VTON), AI-driven photoshoots, and cinematic advertisement animations.
